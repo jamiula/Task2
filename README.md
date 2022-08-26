@@ -1,2 +1,1 @@
 # kubernetes
-Kubernetes playground
